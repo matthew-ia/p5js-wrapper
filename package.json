@@ -3,6 +3,7 @@
   "version": "1.2.3",
   "description": "A simple wrapper for p5js",
   "main": "index.js",
+  "type": "module",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/makinteract/p5js-wrapper"
